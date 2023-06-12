@@ -1,5 +1,10 @@
 # Expo Router Example with Clerk
 
+
+To get web to work i had to follow this:
+https://github.com/aws-amplify/amplify-js/issues/10314
+
+
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
 ## 🚀 How to use
